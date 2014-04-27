@@ -1,3 +1,8 @@
+# New incarnation!
+
+Please see [Grappa](https://github.com/parboiled1/grappa), which is the
+successor to parboiled1
+
 # Please see
 
 * <http://repo1.maven.org/maven2/org/parboiled/> for download access to the artifacts
